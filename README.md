@@ -1,2 +1,2 @@
 # WhitePaper
-Text Editors
+Project is on Wiki!
