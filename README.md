@@ -1,2 +1,3 @@
 # WhitePaper
-Project is on Wiki!
+Project is on Wiki
+*Thank you !*
