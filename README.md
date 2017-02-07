@@ -1,3 +1,4 @@
 # WhitePaper
 Project is on Wiki
-*Thank you !*
+
+**Thank you !**
